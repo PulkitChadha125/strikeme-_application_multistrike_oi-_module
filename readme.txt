@@ -1,0 +1,1 @@
+this is a small project that collects data on the Indian stock market instruments and applies mathematical calculations to it to get volatility, percentage change other values, and return data frame with finalized value. this API will return the data frame then user can add it to any webpage or plat charts for analysis 
